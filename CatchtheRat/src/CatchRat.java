@@ -34,7 +34,7 @@ public class CatchRat {
 		 public void mouseClicked(MouseEvent me)
 		  {
 		  Toolkit.getDefaultToolkit().beep();
-		  JOptionPane.showMessageDialog(null, "CAUGHT THE FUCKING RAT");
+		  JOptionPane.showMessageDialog(null, "CAUGHT THE RAT");
 		  frame.dispatchEvent(new WindowEvent(frame, WindowEvent.WINDOW_CLOSING));
 		  }
 		 });
