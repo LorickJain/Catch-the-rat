@@ -17,7 +17,7 @@ public class CatchRat {
 	frame.getContentPane().setBackground(Color.green);
 	frame.getContentPane().setLayout(new FlowLayout());
 	JLabel lb;
-	lb=new JLabel(new ImageIcon("C:/Users/loric/Desktop/player.png"));
+	lb=new JLabel(new ImageIcon("C:/Users/Name/Desktop/player.png"));
 	lb.setMinimumSize(new Dimension(40,40));
 	lb.setPreferredSize(new Dimension(50,50));
 	lb.setMaximumSize(new Dimension(60,60));
